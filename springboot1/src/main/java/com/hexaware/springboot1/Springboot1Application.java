@@ -19,6 +19,12 @@ public class Springboot1Application {
 		Employee  emp =		context.getBean(Employee.class);
 	
 		logger.info("Employee : "+emp);
+
+
+			System.out.println("Javeed updated , commit , pushed");
+			
+
+
 	}
 
 }
